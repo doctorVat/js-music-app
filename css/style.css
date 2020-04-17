@@ -20,7 +20,8 @@ header h1{
     font-size: 40px;
 }
 header p{
-    font-size: 20px;
+    font-size: 28px;
+    text-align: center;
 }
 .pads{
     background: lightblue;
@@ -55,7 +56,7 @@ header p{
 @keyframes jump {
     0% {
         bottom: 0%;
-        left: -5%;
+        left: 3%;
     }
     50% {
         bottom: 50%;
@@ -63,7 +64,7 @@ header p{
     }
     100% {
         bottom: 0%;
-        left: 99%;
+        left: 94%;
     }
 }
 
